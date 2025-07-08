@@ -45,6 +45,6 @@
 
 ### 📊 My Languages Breakdown
 
-<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','SQL','Tableau','C++'],datasets:[{data:[40,30,20,10]}]}}" alt="Language Pie Chart" width="300"/>
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','SQL','Tableau','C plus plus'],datasets:[{data:[40,30,20,10]}]}}" alt="Language Pie Chart" width="300"/>
 
 ---
