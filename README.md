@@ -45,5 +45,7 @@
 
 ### 📊 Most Used Languages
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Sreeramyapasala&theme=algolia&column=3)]
+### 📊 Most Used Languages
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeramyapasala&layout=default&theme=radical)
 
