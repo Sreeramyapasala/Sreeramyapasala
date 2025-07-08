@@ -1,6 +1,6 @@
 <div align="center">
 
-### Hi 👋, I'm Sree Ramya Pasala
+## Hi 👋, I'm Sree Ramya Pasala
 
 </div>
 
