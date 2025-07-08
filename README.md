@@ -43,9 +43,8 @@
 
 ---
 
-### 📊 Most Used Languages
+### 📊 My Languages Breakdown
 
-### 📊 Most Used Languages
+<img src="https://quickchart.io/chart?c={type:'doughnut',data:{labels:['Python','SQL','Tableau','C++'],datasets:[{data:[40,30,20,10]}]}}" alt="Language Pie Chart" width="300"/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Sreeramyapasala&layout=default&theme=radical)
 
