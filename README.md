@@ -1,101 +1,84 @@
-<div align="center">
+<!-- Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Sree%20Ramya%20Pasala&fontSize=44&fontColor=ffffff&fontAlignY=36&desc=Turning%20messy%20data%20into%20stories%20people%20trust&descSize=18&descAlignY=56&animation=fadeIn" />
+</p>
 
-# Hi 👋, I'm Sree Ramya Pasala
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=58A6FF&center=true&vCenter=true&width=600&lines=Data+Engineer+%F0%9F%9B%A0%EF%B8%8F;Building+pipelines+that+don't+break+at+3am;Data+quality+is+my+love+language+%F0%9F%92%99;Exploring+ML+%26+forecasting+%F0%9F%93%88" alt="Typing SVG" />
+</p>
 
-### Data Engineer · Data Analytics Engineering @ Northeastern University
-
-Building reliable data pipelines, data-quality systems, and analytics that people can trust.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/sree-ramya-04b1a31ba/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](YOUR_PORTFOLIO_LINK)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sreeramyapasala20@gmail.com)
-
-📍 Boston, MA · Open to relocate
-
-</div>
-
----
-
-### 👩‍💻 About Me
-
-- 🎓 Pursuing an **M.S. in Data Analytics Engineering** at Northeastern University (Dec 2026)
-- 🏥 Data Engineer at **MyEdMaster** — building Python workflows for ingestion, validation, and reporting on healthcare data
-- 🏦 2 years as a Jr. Data Engineer at **Happiest Minds Technologies**, working on customer, payment, and lending data in financial services
-- 📈 Improved data accuracy by **25%** and cut manual data prep effort by **30%** through standardized validation and automated workflows
-- 🧠 Currently deepening my skills in **Machine Learning, Predictive Analytics, and Time Series Forecasting**
-- 💬 Ask me about **Python, SQL, data pipelines, data quality, and Power BI**
-
----
-
-### 🚀 Featured Projects
-
-#### 💳 [Financial Data Quality & Reconciliation Platform](YOUR_REPO_LINK)
-Batch and streaming pipelines that standardize financial transaction data and catch issues before they reach reporting.
-- Ingestion with **Kafka, PySpark, and Snowflake**
-- SQL + Python validation rules for completeness, consistency, duplicates, and reconciliation
-- Orchestrated with **Airflow**, with exception dashboards in **Power BI**
-
-`Python` `SQL` `PySpark` `Snowflake` `Kafka` `Airflow` `Azure` `Power BI`
-
-#### 👥 [Enterprise Customer 360 Data Platform](YOUR_REPO_LINK)
-A customer data platform that unifies customer, transaction, and account data for operational and management reporting.
-- Pipelines built with **Azure Data Factory** and **ADLS Gen2**, scheduled with **Airflow**
-- Validation and transformation workflows with documented business rules
-- **Power BI** reporting layer for customer metrics
-
-`Python` `SQL` `Azure Data Factory` `ADLS Gen2` `Airflow` `Power BI`
-
----
-
-### 🛠️ Tech Stack
-
-**Languages & Libraries**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
-
-**Data Engineering & Orchestration**
-![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat&logo=apacheairflow&logoColor=white)
-![Apache Kafka](https://img.shields.io/badge/Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
-![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat&logo=snowflake&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
-
-**Cloud**
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
-![BigQuery](https://img.shields.io/badge/BigQuery-669DF6?style=flat&logo=googlebigquery&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonaws&logoColor=white)
-
-**Databases**
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
-
-**Analytics & Visualization**
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
-![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat&logo=tableau&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
-
-**Tools**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true" alt="GitHub Stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true" alt="Top Languages"/>
+<p align="center">
+  <a href="https://linkedin.com/in/sree-ramya-04b1a31ba/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="YOUR_PORTFOLIO_LINK"><img src="https://img.shields.io/badge/Portfolio-2c5364?style=for-the-badge&logo=googlechrome&logoColor=white" /></a>
+  <a href="mailto:sreeramyapasala20@gmail.com"><img src="https://img.shields.io/badge/Say%20Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
 
-<div align="center">
+### 🧬 `whoami`
 
-⭐ Open to Data Engineering, Data Analytics, and Data Science roles — let's connect!
+```python
+class SreeRamya:
+    def __init__(self):
+        self.location   = "Boston, MA 📍"
+        self.studying   = "M.S. Data Analytics Engineering @ Northeastern"
+        self.loves      = ["clean pipelines", "data quality", "data storytelling"]
+        self.exploring  = ["Machine Learning", "Time Series Forecasting"]
+        self.fun_fact   = "I get weirdly happy when a reconciliation check passes ✅"
 
-</div>
+    def say_hi(self):
+        print("Thanks for stopping by — let's build something with data!")
+```
+
+---
+
+### 🌱 Right Now
+
+- 🔭 Building **data pipelines & quality checks** that make analytics trustworthy
+- 🎨 Experimenting with **interactive visuals** in Flourish & Datawrapper
+- 📚 Learning **ML, SQL optimization, and forecasting**
+- 🤝 Open to collaborating on **real-world data storytelling projects**
+
+---
+
+### 🧰 Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,mysql,sqlite,mongodb,tensorflow&theme=dark" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=azure,gcp,aws,docker,git,github&theme=dark" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/PySpark-E25A1C?style=flat-square&logo=apachespark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apacheairflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white" />
+  <img src="https://img.shields.io/badge/BigQuery-669DF6?style=flat-square&logo=googlebigquery&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img src="https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Pulse
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&theme=tokyonight&hide_border=true&background=0d1117" />
+</p>
+
+---
+
+<p align="center">
+  <i>"Without data, you're just another person with an opinion."</i> — W. Edwards Deming
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=110&section=footer" />
+</p>
